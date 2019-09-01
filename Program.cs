@@ -11,7 +11,7 @@ namespace ConsoleApp1_GITexample
         static void Main(string[] args)
         {
             Console.WriteLine("Hi, Ara!!!!!!");
-            Console.WriteLine("+++++++++++++");
+            Console.WriteLine("+++++++++++++++");
             Console.ReadKey();
         }
     }
