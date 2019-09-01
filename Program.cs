@@ -10,7 +10,7 @@ namespace ConsoleApp1_GITexample
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ara Mkrtchyan!!!");
+            Console.WriteLine("Hi, Ara Mkrtchyan!!!");
             Console.ReadKey();
         }
     }
