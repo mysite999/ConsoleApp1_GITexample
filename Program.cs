@@ -11,7 +11,7 @@ namespace ConsoleApp1_GITexample
         static void Main(string[] args)
         {
            
-            Console.WriteLine("This is test ngrok...!");
+            Console.WriteLine("This is test ngrok...~~!");
             
         }
     }
